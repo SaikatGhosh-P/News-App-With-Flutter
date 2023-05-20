@@ -1,4 +1,4 @@
-# newsapp
+# Newsapp With Flutter (UI)
 
 A new Flutter project.
 
